@@ -171,10 +171,102 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8270237889823493819, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -8143710011712545758, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8ed4e623af90f8a43a9dfc51a3e1ed6e, type: 2}
+    - target: {fileID: -7664728788398519507, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 59c939896822a884b888972a3abe38ec, type: 2}
+    - target: {fileID: -7308718804694308083, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -6093592463355912122, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -4683669308469848369, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2947538861075970057, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1806680513116206669, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 59c939896822a884b888972a3abe38ec, type: 2}
+    - target: {fileID: -1602238644875344336, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -1461304994638716399, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1439730007547781893, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 65e5db791d0478f44b52364e2d60d7b7, type: 2}
+    - target: {fileID: -1120989108687609925, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 59c939896822a884b888972a3abe38ec, type: 2}
+    - target: {fileID: -804731622281664130, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2d49b2f23637999428d698558bb0e754, type: 2}
+    - target: {fileID: -678588488315902003, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2d49b2f23637999428d698558bb0e754, type: 2}
+    - target: {fileID: 466608246689542871, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: a7549712322055f419f3feb357b13be7, type: 3}
       propertyPath: m_Name
       value: bowling-alley
       objectReference: {fileID: 0}
+    - target: {fileID: 1738776581880846596, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 4321514657177891973, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 59c939896822a884b888972a3abe38ec, type: 2}
+    - target: {fileID: 5008022236170083033, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6745302439343835087, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 59c939896822a884b888972a3abe38ec, type: 2}
+    - target: {fileID: 7071182760956848314, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 65e5db791d0478f44b52364e2d60d7b7, type: 2}
+    - target: {fileID: 7202271454713460447, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 65e5db791d0478f44b52364e2d60d7b7, type: 2}
+    - target: {fileID: 8567717000986892130, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 59c939896822a884b888972a3abe38ec, type: 2}
+    - target: {fileID: 8628502785719625371, guid: a7549712322055f419f3feb357b13be7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -244,6 +336,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ball (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 73af28693278bc145b9c335c6257499f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 87e1dedc56ff1f54da383d0418d4a443, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 73af28693278bc145b9c335c6257499f, type: 3}
@@ -320,10 +416,18 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 3.9
       objectReference: {fileID: 0}
+    - target: {fileID: -1823322365421230674, guid: 73c9cad066dfe43e2938e44f32f69522, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 596da00aaa886ae4da1a6ccce2c17441, type: 2}
     - target: {fileID: 919132149155446097, guid: 73c9cad066dfe43e2938e44f32f69522, type: 3}
       propertyPath: m_Name
       value: bowling pin
       objectReference: {fileID: 0}
+    - target: {fileID: 8442510506162454399, guid: 73c9cad066dfe43e2938e44f32f69522, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 536f8b675d281144e9fabae7972b669d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -421,6 +525,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (2)
@@ -504,6 +616,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (2)
@@ -656,6 +788,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (7)
@@ -739,6 +879,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (3)
@@ -825,6 +985,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -977,6 +1145,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -1132,10 +1308,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8347221205978777541, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -6902573867230041995, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4718040791104185828, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -3195828791156449804, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1288733144017031944, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -93644311446669682, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: 122608338434328296, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
       propertyPath: m_Name
       value: chair (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1746654310787607633, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 2355982399387309400, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: 3280927520727180574, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6944656104360116776, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 8089062573417005363, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1284,6 +1508,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (3)
@@ -1436,6 +1680,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1
@@ -1510,6 +1774,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1
@@ -1662,6 +1946,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -1736,6 +2028,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (3)
@@ -1819,6 +2119,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (3)
@@ -1893,6 +2213,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -1974,6 +2302,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ball (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 73af28693278bc145b9c335c6257499f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 87e1dedc56ff1f54da383d0418d4a443, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 73af28693278bc145b9c335c6257499f, type: 3}
@@ -2046,6 +2378,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -2120,6 +2460,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -2200,6 +2548,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -2277,6 +2633,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (2)
@@ -2360,6 +2736,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (1)
@@ -2446,6 +2842,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -2527,6 +2931,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ball (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 73af28693278bc145b9c335c6257499f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f28c31b13c441044591e490a350858f3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 73af28693278bc145b9c335c6257499f, type: 3}
@@ -2599,6 +3007,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -2673,6 +3089,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -2750,6 +3174,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -2828,6 +3260,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ball (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 73af28693278bc145b9c335c6257499f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3969c79654f257549b31007aa24c3b6d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 73af28693278bc145b9c335c6257499f, type: 3}
@@ -2978,6 +3414,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (3)
@@ -3052,6 +3508,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -3282,6 +3746,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (3)
@@ -3356,6 +3840,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -3461,7 +3953,7 @@ Transform:
   m_GameObject: {fileID: 590480213}
   serializedVersion: 2
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: -0.57, y: 5.58, z: -2.82}
+  m_LocalPosition: {x: -27, y: 13, z: -7.8}
   m_LocalScale: {x: 1, y: 1, z: 0.96378}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3605,6 +4097,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -3705,7 +4205,7 @@ Transform:
   m_GameObject: {fileID: 633036007}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: -30.89, y: 1.32, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3775,6 +4275,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ball (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 73af28693278bc145b9c335c6257499f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 596da00aaa886ae4da1a6ccce2c17441, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 73af28693278bc145b9c335c6257499f, type: 3}
@@ -3925,6 +4429,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -3999,6 +4511,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (2)
@@ -4073,6 +4605,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -4147,6 +4687,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (2)
@@ -4221,6 +4781,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -4304,6 +4872,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -4456,6 +5032,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -4767,6 +5351,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -4841,10 +5433,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8347221205978777541, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -6902573867230041995, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4718040791104185828, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -3195828791156449804, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1288733144017031944, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -93644311446669682, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: 122608338434328296, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
       propertyPath: m_Name
       value: chair (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1746654310787607633, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 2355982399387309400, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: 3280927520727180574, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6944656104360116776, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 8089062573417005363, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4915,6 +5555,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -4989,6 +5637,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -5144,6 +5800,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (6)
@@ -5227,6 +5891,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (2)
@@ -5379,10 +6063,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8347221205978777541, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -6902573867230041995, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4718040791104185828, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -3195828791156449804, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1288733144017031944, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -93644311446669682, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: 122608338434328296, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
       propertyPath: m_Name
       value: chair (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1746654310787607633, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 2355982399387309400, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: 3280927520727180574, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6944656104360116776, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 8089062573417005363, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -5455,6 +6187,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -804731622281664130, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -678588488315902003, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
     - target: {fileID: 919132149155446097, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
       propertyPath: m_Name
       value: shelf
@@ -5619,6 +6371,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -5696,6 +6456,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -5780,6 +6548,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ball (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 73af28693278bc145b9c335c6257499f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3969c79654f257549b31007aa24c3b6d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 73af28693278bc145b9c335c6257499f, type: 3}
@@ -5852,6 +6624,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -5926,6 +6706,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (2)
@@ -6000,6 +6800,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -6074,10 +6882,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8347221205978777541, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -6902573867230041995, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4718040791104185828, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -3195828791156449804, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1288733144017031944, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -93644311446669682, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: 122608338434328296, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
       propertyPath: m_Name
       value: chair (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1746654310787607633, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 2355982399387309400, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: 3280927520727180574, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6944656104360116776, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 8089062573417005363, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6152,6 +7008,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ball
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 73af28693278bc145b9c335c6257499f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f28c31b13c441044591e490a350858f3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 73af28693278bc145b9c335c6257499f, type: 3}
@@ -6232,6 +7092,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -804731622281664130, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -678588488315902003, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
     - target: {fileID: 919132149155446097, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
       propertyPath: m_Name
       value: shelf (3)
@@ -6303,6 +7183,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -6377,6 +7265,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1
@@ -6455,6 +7363,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ball (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 73af28693278bc145b9c335c6257499f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f28c31b13c441044591e490a350858f3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 73af28693278bc145b9c335c6257499f, type: 3}
@@ -6533,6 +7445,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (2)
@@ -6607,6 +7539,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -6692,6 +7632,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: bowling pin (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8442510506162454399, guid: 73c9cad066dfe43e2938e44f32f69522, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 536f8b675d281144e9fabae7972b669d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6762,6 +7706,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -6842,6 +7794,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (2)
@@ -6929,6 +7901,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ball (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 73af28693278bc145b9c335c6257499f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 87e1dedc56ff1f54da383d0418d4a443, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 73af28693278bc145b9c335c6257499f, type: 3}
@@ -7001,6 +7977,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -7075,10 +8059,42 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 596da00aaa886ae4da1a6ccce2c17441, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -804731622281664130, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 65e5db791d0478f44b52364e2d60d7b7, type: 2}
+    - target: {fileID: -678588488315902003, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 596da00aaa886ae4da1a6ccce2c17441, type: 2}
     - target: {fileID: 919132149155446097, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
       propertyPath: m_Name
       value: gumballmachine
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 74c754e407f4a1e45813d3fd4d6da1da, type: 2}
+    - target: {fileID: 7071182760956848314, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 65e5db791d0478f44b52364e2d60d7b7, type: 2}
+    - target: {fileID: 7202271454713460447, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 65e5db791d0478f44b52364e2d60d7b7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
@@ -7142,6 +8158,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -804731622281664130, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -678588488315902003, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
     - target: {fileID: 919132149155446097, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
       propertyPath: m_Name
       value: shelf (1)
@@ -7213,10 +8249,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8347221205978777541, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -6902573867230041995, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4718040791104185828, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -3195828791156449804, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1288733144017031944, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -93644311446669682, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: 122608338434328296, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
       propertyPath: m_Name
       value: chair (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1746654310787607633, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 2355982399387309400, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: 3280927520727180574, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6944656104360116776, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 8089062573417005363, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -7290,6 +8374,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -7364,6 +8456,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -7438,6 +8538,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1
@@ -7590,6 +8710,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -7670,6 +8798,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -7750,6 +8886,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -7827,6 +8971,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -8147,6 +9299,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -8221,6 +9381,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -8295,6 +9463,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -8372,10 +9548,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8347221205978777541, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -6902573867230041995, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4718040791104185828, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -3195828791156449804, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1288733144017031944, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -93644311446669682, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: 122608338434328296, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
       propertyPath: m_Name
       value: chair (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1746654310787607633, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 2355982399387309400, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: 3280927520727180574, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6944656104360116776, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 8089062573417005363, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -8452,6 +9676,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (4)
@@ -8539,6 +9771,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ball (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 73af28693278bc145b9c335c6257499f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 87e1dedc56ff1f54da383d0418d4a443, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 73af28693278bc145b9c335c6257499f, type: 3}
@@ -8615,6 +9851,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ball (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 73af28693278bc145b9c335c6257499f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 596da00aaa886ae4da1a6ccce2c17441, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 73af28693278bc145b9c335c6257499f, type: 3}
@@ -8696,6 +9936,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -8773,6 +10021,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -8853,6 +10109,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (2)
@@ -8939,6 +10215,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1
@@ -9097,6 +10393,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -9171,6 +10475,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (2)
@@ -9410,6 +10734,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -9484,6 +10816,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1
@@ -9558,10 +10910,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8347221205978777541, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -6902573867230041995, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4718040791104185828, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -3195828791156449804, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1288733144017031944, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -93644311446669682, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: 122608338434328296, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
       propertyPath: m_Name
       value: chair
       objectReference: {fileID: 0}
+    - target: {fileID: 1746654310787607633, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 2355982399387309400, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: 3280927520727180574, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6944656104360116776, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 8089062573417005363, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -9635,6 +11035,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -9709,10 +11117,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8347221205978777541, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -6902573867230041995, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4718040791104185828, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -3195828791156449804, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1288733144017031944, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -93644311446669682, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: 122608338434328296, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
       propertyPath: m_Name
       value: chair (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1746654310787607633, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 2355982399387309400, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: 3280927520727180574, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6944656104360116776, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 8089062573417005363, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9996,6 +11452,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -10073,6 +11537,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -10151,6 +11623,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ball (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6317578925029434746, guid: 73af28693278bc145b9c335c6257499f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3969c79654f257549b31007aa24c3b6d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 65702495048144492, guid: 73af28693278bc145b9c335c6257499f, type: 3}
@@ -10223,10 +11699,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8347221205978777541, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -6902573867230041995, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4718040791104185828, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -3195828791156449804, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1288733144017031944, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -93644311446669682, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: 122608338434328296, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
       propertyPath: m_Name
       value: chair (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1746654310787607633, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 2355982399387309400, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: 3280927520727180574, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6944656104360116776, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 8089062573417005363, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10297,6 +11821,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (3)
@@ -10371,6 +11915,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -10588,6 +12140,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -804731622281664130, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -678588488315902003, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
     - target: {fileID: 919132149155446097, guid: 16458770cbda1484c8cea79387d176b6, type: 3}
       propertyPath: m_Name
       value: shelf (2)
@@ -10737,6 +12309,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe
@@ -10820,6 +12400,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6093592463355912122, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -804731622281664130, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -678588488315902003, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     - target: {fileID: 919132149155446097, guid: 257efb1cf1f699a4e82ff9ef79659451, type: 3}
       propertyPath: m_Name
       value: bowling-alley-guard-rail 1 (3)
@@ -11077,6 +12677,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -11151,10 +12759,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8347221205978777541, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -6902573867230041995, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4718040791104185828, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -3195828791156449804, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1288733144017031944, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -93644311446669682, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: 122608338434328296, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
       propertyPath: m_Name
       value: chair (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1746654310787607633, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 2355982399387309400, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: 3280927520727180574, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6944656104360116776, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 8089062573417005363, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -11228,6 +12884,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -11305,10 +12969,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8347221205978777541, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -6902573867230041995, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4718040791104185828, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -3195828791156449804, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1288733144017031944, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -93644311446669682, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: 122608338434328296, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
       propertyPath: m_Name
       value: chair (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1746654310787607633, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 2355982399387309400, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: 3280927520727180574, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6944656104360116776, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 8089062573417005363, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -11382,6 +13094,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -11537,10 +13257,58 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8347221205978777541, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -6902573867230041995, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -4718040791104185828, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: -3195828791156449804, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: -1288733144017031944, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: -93644311446669682, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
+    - target: {fileID: 122608338434328296, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
       propertyPath: m_Name
       value: chair (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1746654310787607633, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 2355982399387309400, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caf5a1e0936cc5d4085561c17ef17bc5, type: 2}
+    - target: {fileID: 3280927520727180574, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 6944656104360116776, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
+    - target: {fileID: 8089062573417005363, guid: cb62ff24bc116428fa5acf0d7110ba93, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 06ac7df149524894bbb03ef9b0130757, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11611,6 +13379,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -11685,6 +13461,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (5)
@@ -11768,6 +13552,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -11842,6 +13634,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -11916,6 +13716,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -11996,6 +13804,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -12076,6 +13892,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
@@ -12150,6 +13974,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af5ee1bee59f5394a930fd6a20a5d5be, type: 2}
+    - target: {fileID: -1461304994638716399, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6a18a406cead4448be7e2c5f61b7810, type: 2}
     - target: {fileID: 919132149155446097, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
       propertyPath: m_Name
       value: bowling-shoe (1)
