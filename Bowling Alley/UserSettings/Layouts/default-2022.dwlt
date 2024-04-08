@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 932
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -320,8 +320,14 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
+<<<<<<< Updated upstream
     m_SearchArea: 0
     m_Folders: []
+=======
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/Scenes
+>>>>>>> Stashed changes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -329,7 +335,11 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< Updated upstream
   - Assets/Materials
+=======
+  - Assets/Scenes
+>>>>>>> Stashed changes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/ryancatarroja/Documents/GitHub/SadBowlingProject/Bowling
     Alley
@@ -337,9 +347,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: 02ca9a3b
     m_LastClickedID: 1000000002
     m_ExpandedIDs: 000000006061000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: 965d0000
+    m_LastClickedID: 23958
+    m_ExpandedIDs: 000000007e5d000000ca9a3bffffff7f
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: Scenes
@@ -367,7 +383,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 0000000060610000
+=======
+    m_ExpandedIDs: 000000007e5d0000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -506,10 +526,17 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
+<<<<<<< Updated upstream
       scrollPos: {x: 0, y: 1134.5}
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: d6a0fdffc4dbfeff0825fffff826ffff8028ffff442bffffa62fffff685fffffb2d3ffffaad6ffff8edaffff14dbffff6cebffffe8f2ffff2ef6ffff
+=======
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: c25d0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 0aabffff58abffff36bbfffffccaffffb0daffff5aeaffff32fbffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -863,9 +890,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< Updated upstream
     m_Target: {x: -33.326195, y: 2.0743732, z: -47.141354}
     speed: 2
     m_Value: {x: -33.326195, y: 2.0743732, z: -47.141354}
+=======
+    m_Target: {x: -18.322592, y: -42.64285, z: -47.45634}
+    speed: 2
+    m_Value: {x: -18.322592, y: -42.64285, z: -47.45634}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -913,11 +946,19 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.11856945, y: 0.8802206, z: -0.34861907, w: 0.29938316}
     speed: 2
+<<<<<<< Updated upstream
     m_Value: {x: 0.11856871, y: 0.8802151, z: -0.3486169, w: 0.29938132}
   m_Size:
     m_Target: 13.806099
     speed: 2
     m_Value: 12.243535
+=======
+    m_Value: {x: 0.20910889, y: 0.7779499, z: -0.33103052, w: 0.4914179}
+  m_Size:
+    m_Target: 46.90843
+    speed: 2
+    m_Value: 46.9789
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -997,10 +1038,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -469.75
-    m_HBaseRangeMax: 469.75
-    m_VBaseRangeMin: -224.25
-    m_VBaseRangeMax: 224.25
+    m_HBaseRangeMin: -234.875
+    m_HBaseRangeMax: 234.875
+    m_VBaseRangeMin: -112.125
+    m_VBaseRangeMax: 112.125
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1020,7 +1061,7 @@ MonoBehaviour:
       y: 21
       width: 939.5
       height: 448.5
-    m_Scale: {x: 1, y: 1}
+    m_Scale: {x: 2, y: 2}
     m_Translation: {x: 469.75, y: 224.25}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -1028,13 +1069,13 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -469.75
-      y: -224.25
-      width: 939.5
-      height: 448.5
+      x: -234.875
+      y: -112.125
+      width: 469.75
+      height: 224.25
     m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 939.5, y: 469.5}
+  m_defaultScale: 2
+  m_LastWindowPixelSize: {x: 1879, y: 939}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000

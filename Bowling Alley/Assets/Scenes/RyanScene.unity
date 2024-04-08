@@ -16279,11 +16279,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
       propertyPath: m_LocalPosition.y
+<<<<<<< Updated upstream
       value: 0.11
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
       propertyPath: m_LocalPosition.z
       value: -54.62
+=======
+      value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -54.49
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
       propertyPath: m_LocalRotation.w
@@ -16313,6 +16321,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< Updated upstream
     - target: {fileID: -6093592463355912122, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -16329,6 +16338,16 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 596da00aaa886ae4da1a6ccce2c17441, type: 2}
+=======
+    - target: {fileID: -447275898630060098, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -43.35
+      objectReference: {fileID: 0}
+    - target: {fileID: -447275898630060098, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.67
+      objectReference: {fileID: 0}
+>>>>>>> Stashed changes
     - target: {fileID: 919132149155446097, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
       propertyPath: m_Name
       value: gumballmachine
@@ -16417,7 +16436,9 @@ PrefabInstance:
       value: bowling-shoe (39)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -8700617353114198275, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
+    - {fileID: 65702495048144492, guid: 0fdce2ad51927e3459663c22e550f2e0, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86630d98a3b98cb4c938a5419ed087f4, type: 3}
